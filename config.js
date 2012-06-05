@@ -1,0 +1,11 @@
+routerTable = {};
+routerTable['blackjack.gamehost2.isogenicengine.com'] = { host:'localhost', port:7000 };
+routerTable['blackjack-dev.gamehost2.isogenicengine.com'] = { host:'localhost', port:7000 };
+routerTable['blackjack-io1.gamehost2.isogenicengine.com'] = { host:'localhost', port:9000 };
+routerTable['/games/np/'] = { host:'localhost', port:7001 };
+routerTable['/games/np/'] = { host:'localhost', port:9001 };
+routerTable['moo.com'] = { host:'localhost', port:'/games/blackjack' };
+routerTable['moo.com'] = { host:'localhost', port:'9000' };
+routerTable['moo.com'] = { host:'localhost', port:'9000' };
+routerTable['moo.com'] = { host:'localhost', port:'9000' };
+routerTable['moo.com'] = { host:'localhost', port:'9000' };
